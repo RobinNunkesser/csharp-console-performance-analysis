@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradualMemoryLeak", "GradualMemoryLeak\GradualMemoryLeak.csproj", "{BD869AB9-6340-4E59-A83E-F5A7C0A7C2DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticEvents", "StaticEvents\StaticEvents.csproj", "{1CA70A8A-F6AE-4AE7-B817-9DABC23FE95C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD869AB9-6340-4E59-A83E-F5A7C0A7C2DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD869AB9-6340-4E59-A83E-F5A7C0A7C2DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD869AB9-6340-4E59-A83E-F5A7C0A7C2DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD869AB9-6340-4E59-A83E-F5A7C0A7C2DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CA70A8A-F6AE-4AE7-B817-9DABC23FE95C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CA70A8A-F6AE-4AE7-B817-9DABC23FE95C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CA70A8A-F6AE-4AE7-B817-9DABC23FE95C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CA70A8A-F6AE-4AE7-B817-9DABC23FE95C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
